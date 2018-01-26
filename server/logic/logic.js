@@ -1,5 +1,6 @@
 
-module.exports = (arr) => {
-	// solve the problem
+const solution = (arr) => {
+	
 	return arr;
 }
+module.exports = solution;
